@@ -1,8 +1,6 @@
 const  blogs = [
     
     {
-
-
     id: "f864a7da-8eef-4a7e-b485-bdebe43b1d95",
     image: "../src/assets/image/God Opposes The proud but gives grace to the humble.png",
     title: "Maintain Humility: Don't Let Success Get to Your Head.",

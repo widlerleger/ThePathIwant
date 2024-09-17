@@ -1,6 +1,6 @@
 import React from 'react'
 import { useParams } from 'react-router-dom'
-import blogs from '../../data/blogData'
+import blogs from '../data/blogData'
 import { Link } from 'react-router-dom'
 
 function BlogDetails() {
