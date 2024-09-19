@@ -18,7 +18,7 @@ function BlogDetails() {
       <img className=' w-[600px] rounded-md md:w-[60%] ' src={image} />
        <div className='max-w-[900px] gap-6'> 
         <h1 className='text-5xl font-bold text-start '>{title}</h1> <br/>
-        <p className='text-light text-xl mb-5'>Write by: <span className='text-blue-600'><Link to={"/"}>{author}</Link></span></p>
+        <p className='text-light text-xl mb-5'>Write by: <span className='text-blue-600'><Link to={"/ThePathIwant/"}>{author}</Link></span></p>
         <h2 className='text-light text-xl font-serif '>{description}</h2>
        </div>
      
@@ -54,7 +54,7 @@ function BlogDetails() {
 
            </div>
      </article>
-     <p className=' self-start  md:self-center'> Publish: {createdAt}  <Link to={"/BlogFeed"} className='text-blue-600 text-xl font-serif'> Learn more</Link></p>
+     <p className=' self-start  md:self-center'> Publish: {createdAt}  <Link to={"/ThePathIwant/BlogFeed"} className='text-blue-600 text-xl font-serif'> Learn more</Link></p>
          
     </div>
   )

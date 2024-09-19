@@ -10,21 +10,21 @@ import BlogDetails from './pages/BlogDetails'
 const router = createBrowserRouter([
 
    {
-    path:"/",
+    path:"/ThePathIwant/",
     element: <MainLayouts/>,
     errorElement: <NotFoundpages/>,
       children:[{
-        path:"/",
+        path:"/ThePathIwant/",
         element: <Home/>,
       },
       
       {
-        path: "/BlogFeed",
+        path: "/ThePathIwant/BlogFeed",
         element: <BlogFeed/>
       },
 
     {
-      path: "/:id",
+      path: "/ThePathIwant/:id",
       element: <BlogDetails/>
     }
     

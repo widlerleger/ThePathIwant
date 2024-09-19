@@ -6,12 +6,12 @@ function Navbar() {
     <div className="main-container-nav">
 
        <div className='flex-img'>
-         <Link to={"/"} ><img src='../src/assets/image/The Path Iwant.png'/></Link>
+         <Link to={"/ThePathIwant/"} ><img src='./src/assets/image/The Path Iwant.png'/></Link>
        </div>
 
           <div className='flex-navig'>
-            <NavLink className="menu" to={"/"}>Home</NavLink>
-            <NavLink className="menu" to={"/BlogFeed"}>Blog</NavLink>
+            <NavLink className="menu" to={"/ThePathIwant/"}>Home</NavLink>
+            <NavLink className="menu" to={"/ThePathIwant/BlogFeed"}>Blog</NavLink>
             </div>
     </div>
   )

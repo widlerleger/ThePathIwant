@@ -8,7 +8,7 @@ function NotFoundpages() {
 
                 <h1 className=' text-bold text-5xl'> Ooops! 404</h1>
                 <h2 className='text-2xl'> The page your looking for does not exist</h2>
-                <Link className='font-mono text-2xl p-3  cursor-pointer hover:bg-gray-400 rounded-md bg-[#ffeac0]' to={"/"}>Go back</Link>
+                <Link className='font-mono text-2xl p-3  cursor-pointer hover:bg-gray-400 rounded-md bg-[#ffeac0]' to={"/ThePathIwant/"}>Go back</Link>
 
 
            </div>

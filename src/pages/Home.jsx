@@ -7,8 +7,8 @@ function Home() {
     <div >
 
       <div className="container-img">
-         <img src="../src/assets/image/widler leger (3).png" alt="Widler Leger"width={350}/>
-         <img src="../src/assets/image/widler leger (2).png" alt="Widler Leger"  width={350}/>
+         <img src="./src/assets/image/widler leger (3).png" alt="Widler Leger"width={350}/>
+         <img src="./src/assets/image/widler leger (2).png" alt="Widler Leger"  width={350}/>
       </div>
 
         <div className='container-p-b'>
@@ -17,7 +17,7 @@ function Home() {
           <span className='blue-text'>
           The Path IWant.</span ></h2>
 
-          <Link className='Link-blog-btn' to={"/BlogFeed"}> View blog</Link>
+          <Link className='Link-blog-btn' to={"/ThePathIwant/BlogFeed"}> View blog</Link>
           </div>
 
     </div>

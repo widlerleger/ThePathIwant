@@ -2,7 +2,7 @@ const  blogs = [
     
     {
     id: "f864a7da-8eef-4a7e-b485-bdebe43b1d95",
-    image: "../src/assets/image/God Opposes The proud but gives grace to the humble.png",
+    image: "./src/assets/image/God Opposes The proud but gives grace to the humble.png",
     title: "Maintain Humility: Don't Let Success Get to Your Head.",
     createdAt: "9/15/2024",
     author: "Widler Leger",
@@ -38,7 +38,7 @@ const  blogs = [
 
 
      id: "af9bc2c6-26ff-4420-ad29-86c90788f337",
-     image: "../src/assets/image/Put God first.png",
+     image: "./src/assets/image/Put God first.png",
      title: "Explore the advantages of prioritizing God in your life.",
      createdAt: "9/12/2024",
      author: "Widler Leger",
@@ -73,7 +73,7 @@ const  blogs = [
 
 {
     id: "0c6d17e3-caf9-4067-89ee-c8e38890c3c6",
-    image: "../src/assets/image/Consider it pure joy.png",
+    image: "./src/assets/image/Consider it pure joy.png",
     title: "Incorporate Faith and Patience in Your Daily Life",
     createdAt: "7/12/2024" ,
     author: "Widler Leger",
@@ -108,7 +108,7 @@ const  blogs = [
 
 {
     id: "c2c13bd5-49a2-4450-91c5-c5f9fe6d7524",
-    image: "../src/assets/image/The source of all (1).png ",
+    image: "./src/assets/image/The source of all (1).png ",
     title: "The source of all: How to grow with dignity.",
     createdAt: "7/12/2024",
     author: "Widler Leger",
