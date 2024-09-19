@@ -8,7 +8,7 @@ function Home() {
 
       <div className="container-img">
          <img src="./src/assets/image/widler leger (3).png" alt="Widler Leger"width={350}/>
-         <img src="./src/assets/image/widler leger (2).png" alt="Widler Leger"  width={350}/>
+         <img src="./src/assets/image/widlerleger.png" alt="Widler Leger"  width={350}/>
       </div>
 
         <div className='container-p-b'>
