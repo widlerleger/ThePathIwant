@@ -6,7 +6,7 @@ function Navbar() {
     <div className="main-container-nav">
 
        <div className='flex-img'>
-         <Link to={"/ThePathIwant/"} ><img src='./src/assets/image/The Path Iwant.png'/></Link>
+         <Link to={"/ThePathIwant/"} ><img src='./src/assets/image/thepathiwant.png'/></Link>
        </div>
 
           <div className='flex-navig'>

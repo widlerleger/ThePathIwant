@@ -1,8 +1,43 @@
 const  blogs = [
+
+
+    {
+    id: "7e02c1dc-1607-4fd2-8050-1fce2d862434",
+    image: "./src/assets/image/thessaloniansverse.png",
+    title: "Live Life Freely: Overcoming Depression.",
+createdAt: "9/20/2024",
+    author: "Widler Leger",
+    description: "How to overcome Depression?  The key to overcoming depression is to prioritize God first in your life, knowing that you're a child of God and the Provider of your life, you'll also need to focus on the future not the past, and take control of your life and feelings. This blog provides guidance for approaching life without depression. Come to me, all you who are weary and burdened, and I will give you rest. Matthew 11:28",
+    article: {
+
+            h2: "Understanding what causes Depression:",
+            p2: "The primary root of depression often stems from familial relationships. It can be confusing to understand what causes depression in people's lives If you lack parental support and love, it is normal to see the presence of depression in your daily life. It is important to maintain a good family relationship in order to go through life without depression. It is also possible for depression to be caused by a lack of prayer and meditation. Unhealthy eating and a lack of exercise can also attract depression into your daily lives. It is important to eat healthy and exercise regularly.",
+            h3: "Ways to Avoid Depression:",
+            p3: "After understanding what causes depression, it is crucial to know how to approach life without being depressed. Avoiding being depressed is very challenging in the world that we live in today, however, through a consistent positive habit, you can develop a way to avoid stress and anxiety in your life.",
+            h4: "Guides that can help you stay confident to avoid being depressed:",
+
+            Ul: {
+                li1: "Be respectful of your parents.",
+                li2:  "Meditate often.",
+                li3:  "Sleep well.",
+                li4: "Eat healthily.",
+                li5: "Tell the truth.",
+                li6: "Develop a habit of exercising.",
+                },
+
+                p4: " Live Life Freely. For God did not call us to be impure, but to live a holy life. 1 Thessalonians 4:7 Considering that you have just one life to live, take the opportunity to show gratitude to Jesus by telling him how blessed you are every time you wake up. Don't let worry and anxiety and lack of money take control over your life to opposite you from Happiness and prosperity. Understanding that God loves you and wants you to live, you should live your life freely!",
+                h5: "Verse to power your journey!",
+                p5: "Deuteronomy 31:8. The Lord himself goes before you and will be with you; he will never leave you nor forsake you. do not be discouraged. John 16:33. I have told you these things, so that in me you may have peace. In this world, you will have trouble. But take heart! have overcome the world. Jeremiah 29:11. For I know the plans I have for you, declares the Lord, plans for peace and not for evil, to give you a future and a hope.",
+
+    }
+     },
+
+
+
     
     {
     id: "f864a7da-8eef-4a7e-b485-bdebe43b1d95",
-    image: "./src/assets/image/God Opposes The proud but gives grace to the humble.png",
+    image: "./src/assets/image/Jamesverse.png",
     title: "Maintain Humility: Don't Let Success Get to Your Head.",
     createdAt: "9/15/2024",
     author: "Widler Leger",
@@ -38,7 +73,7 @@ const  blogs = [
 
 
      id: "af9bc2c6-26ff-4420-ad29-86c90788f337",
-     image: "./src/assets/image/Put God first.png",
+     image: "./src/assets/image/mathewverse.png",
      title: "Explore the advantages of prioritizing God in your life.",
      createdAt: "9/12/2024",
      author: "Widler Leger",
@@ -73,7 +108,7 @@ const  blogs = [
 
 {
     id: "0c6d17e3-caf9-4067-89ee-c8e38890c3c6",
-    image: "./src/assets/image/Consider it pure joy.png",
+    image: "./src/assets/image/jamesverses.png",
     title: "Incorporate Faith and Patience in Your Daily Life",
     createdAt: "7/12/2024" ,
     author: "Widler Leger",
@@ -108,7 +143,7 @@ const  blogs = [
 
 {
     id: "c2c13bd5-49a2-4450-91c5-c5f9fe6d7524",
-    image: "./src/assets/image/The source of all (1).png ",
+    image: "./src/assets/image/johnverse.png ",
     title: "The source of all: How to grow with dignity.",
     createdAt: "7/12/2024",
     author: "Widler Leger",
